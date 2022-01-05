@@ -1,9 +1,7 @@
 #####################################################################
 #
-# CSC258H5S Fall 2021 Assembly Final Project
-# University of Toronto, St. George
-#
-# Student: Jeffrey Luo, 1006872047
+# Frogger
+# Created by Jeffrey Luo
 #
 # Bitmap Display Configuration:
 # - Unit width in pixels: 8
@@ -11,21 +9,6 @@
 # - Display width in pixels: 256
 # - Display height in pixels: 256
 # - Base Address for Display: 0x10008000 ($gp)
-#
-# Which milestone is reached in this submission?
-# (See the assignment handout for descriptions of the milestones)
-# - Milestone 4.5
-#
-# Which approved additional features have been implemented?
-# (See the assignment handout for the list of additional features)
-# 1. display lives
-# 2. restart
-# 3. death animation
-# 4. dynamic speed increase
-# 5. second level
-#
-# Any additional information that the TA needs to know:
-# - (write here, if any)
 #
 #####################################################################
 .data
